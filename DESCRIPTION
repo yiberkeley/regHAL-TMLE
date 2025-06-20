@@ -1,0 +1,10 @@
+Package: regHAL-TMLE
+Type: Package
+Title: Regularized TMLE in HAL working model
+Version: 0.1.0
+Author: Yi Li, Sky Qiu, Zeyi Wang, Mark van der Laan
+Maintainer: Yi Li <yi_li@berkeley.edu>
+Description: This package showcases how to do regularized TMLEs in HAL working models
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
